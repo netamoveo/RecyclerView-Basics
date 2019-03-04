@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Inbox</string>
+    <string name="action_search">Search</string>
+    <string name="action_delete">Delete</string></resources>
